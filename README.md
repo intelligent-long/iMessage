@@ -1,5 +1,5 @@
 # iMessage
-LONG 的一个消息软件<br>提供了客户端和服务端程序<br>
+一个消息软件<br>提供了客户端和服务端程序<br>
 <img src="iMessage/Screenshot_20250203-062149.png" width="300"/>
 <img src="iMessage/Screenshot_20250203-062152.png" width="300"/>
 <img src="iMessage/Screenshot_20250203-062542.png" width="300"/>
